@@ -1,0 +1,11 @@
+front:
+  urlQueue:
+    - "http://2019.ip138.com/ic.asp"
+    - "http://www.cip.cc/"
+    - "https://tool.lu/ip/ajax.html"
+    - "http://www.ip138.com/ips1388.asp"
+    - "https://dns.aizhan.com/"
+  aliyun:
+    id: "LTAISKKrhKgYmb2i"
+    key: "ZAYzHd2MzfrApz4ANNxEsFzZygaM5V"
+  url: "icards.pro"
